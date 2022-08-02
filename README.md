@@ -1,2 +1,2 @@
 # Shayna-Page
-slicing shayna page
+slicing shayna page: http://shayna-agency.netlify.com/
